@@ -1,4 +1,4 @@
-# Johanna-CESAR-Portefolio
+# Johanna-CESAR-Portfolio
 My own website 
 Here you can find the first try of making a website ever. It will contain a portefolio of all my paintings.
 Warnings: Its not complete yet, the web responsiveness is not complete (problem with media queries) and i will like to add some animation, zoom on images, make it more alive and less 2005. 
